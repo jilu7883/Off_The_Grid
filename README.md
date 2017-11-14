@@ -1,4 +1,5 @@
 
-Network
-This page will talks about all about the Network connection and configuration
+Software-website
+
+This page will contain all the information for the website, battery life and GPS location
 
