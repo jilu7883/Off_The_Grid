@@ -1,6 +1,6 @@
-Welcome to our website
+# Welcome to our website
 
-Here is our URL:http://offthegridcapstone.com
+# Here is our URL:http://offthegridcapstone.com
 
 If this one is not work, try this one http://offthegrid.000webhostapp.com/hdoc/homepage.php
 
